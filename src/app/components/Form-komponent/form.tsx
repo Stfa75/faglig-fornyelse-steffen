@@ -7,7 +7,7 @@ const handleSubmit = (e: React.SubmitEvent) => { //e: er forkortelse for event
   e.preventDefault(); // Stopper siden i at genindlæse
 
   // Sender brugeren videre til en anden side/URL
-  window.location.href = "/tak.html"; 
+  window.location.href = "/tak"; 
 };
 //selve formen
     return(
