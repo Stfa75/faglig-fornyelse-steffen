@@ -20,5 +20,9 @@ export const INITIAL_PERSONS: Person[] = [
     id: 2,
     name: 'Lars Jensen',
     email: 'lars@example.com'
+  },
+  { id: 3,
+    name: 'Steffen Fabricius',
+    email: 'steffenfabricius@gmail.com'
   }
 ];

@@ -1,5 +1,5 @@
 import {Person, INITIAL_PERSONS} from "./names"; 
-import"form.css"
+import"./form.css"
 
 //enkel lille funktion der sender dig videre til siden. tak.html
  export default function Formular (){
